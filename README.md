@@ -4,28 +4,15 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This is a repository showing off the features that I have worked on in a capstone C++ engine using opengl and sdl
+* Me and a group of friends worked on this engine, I focused much of my attention working on graphical effects for the engine
+* This repository will mostly only focus on showing the work I have done in the engine.
+* Feel free to check it out and mess around within the scene
 
-### How do I get set up? ###
+### Commits ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Because I was importing our entire commits from bitbucket I didn't fully commit the entire engine, If you want to see what the entire engine looks like and all the changes you can visit here
+https://bitbucket.org/gpcapstoneteam/
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
 
 #Sean was here
